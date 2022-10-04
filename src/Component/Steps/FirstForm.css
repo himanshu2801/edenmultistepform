@@ -1,0 +1,24 @@
+.firstStepDiv{
+    width: 30%;
+    margin-left: 450px;
+
+}
+
+.fadedText{
+    margin-bottom: 40px;
+}
+
+.inputBox{
+    margin-top: 5px;
+}
+
+.btn{
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    width: 100%;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: blueviolet !important;
+}

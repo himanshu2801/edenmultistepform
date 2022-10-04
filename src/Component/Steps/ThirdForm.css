@@ -1,0 +1,15 @@
+.card{
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+
+
+.cardColor{
+    cursor: pointer;
+    border-color: blueviolet;
+    margin-bottom: 15px;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: blueviolet !important;
+}

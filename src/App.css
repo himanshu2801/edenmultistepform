@@ -1,0 +1,39 @@
+.bttnDiv{
+    width: 30%;
+    margin-left: 450px;
+
+}
+
+.btn{
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    width: 100%;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: blueviolet !important;
+}
+
+.stepClass{
+    width: 30%;
+    margin-left: 450px;
+    color: blueviolet;
+}
+
+.eden{
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.stepper{
+    padding-bottom: 20px;
+}
+
+.logo{
+    padding-bottom: 7px;
+    margin-right: 3px;
+    width: 3%;
+    height: 3%;
+}
+

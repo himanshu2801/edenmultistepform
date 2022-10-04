@@ -1,0 +1,14 @@
+.checkIcon{
+    width: 100%;
+    align-items: center;
+}
+
+.centerDiv{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: blueviolet !important;
+}
